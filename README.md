@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pc7122
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning data Science
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
 <!---
