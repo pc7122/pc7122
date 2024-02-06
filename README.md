@@ -1,25 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 400px" />
-</div>  
+<h1 align="center">Hi 👋, I'm Prathamesh Chaudhary</h1>
   
 
-### **<div align="center">I'm Prathamesh, a passionate developer in india</div>**  
-  
-
-- 🌱 I’m currently learning Machine Learning and React JS  
-  
-
-- ❓ Ask me about anything related to Django, NodeJS  
-
-
+- 🌱 I’m currently learning Generative AI    
+- ❓ Ask me about anything related to Python, Machine Learning  
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1EGHHwNOCCmQZRJv1RUuMsyNC_xs0oMSV/view?usp=sharing)
   
-
 <br/>  
 
-
 ## My Skill Set  
-
 
 ### Technologies  
 <div align="center">  
