@@ -62,9 +62,11 @@
 </a>  
 </div>  
   
+# 📊 GitHub Stats:
 
-<br/>  
+![](https://github-readme-stats.vercel.app/api?username=pc7122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pc7122&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pc7122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pc7122&hide_border=true&layout=compact" align="center" style="width: 50%;" /></div>
+---
+[![](https://visitcount.itsvg.in/api?id=pc7122&icon=0&color=0)](https://visitcount.itsvg.in)
